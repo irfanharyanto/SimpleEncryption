@@ -1,4 +1,4 @@
-# simpleEncryption
+# Simple Encryption
 
 Diberikan sebuah kasus untuk enkripsi password yang memanfaatkan Linked List,  dengan spesifikasi :
 
